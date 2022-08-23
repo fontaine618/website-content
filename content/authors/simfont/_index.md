@@ -7,7 +7,7 @@ title: Simon Fontaine
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Statistics
+role: Ph.D. Candidate in Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,6 @@ bio:
 
 interests:
 - Computational Statistics
-- Variable Selection
 - MCMC
 - Variational Inference
 - Graphical Models
@@ -72,4 +71,11 @@ user_groups:
 - Visitors
 ---
 
-I'm a third year Ph.D. student in Statistics at the University of Michigan and I am originally from Montreal, Canada. My current research, under the supervision of [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/), involves latent variable models and variational inference applied to network data. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 
+I'm a fourth year Ph.D. student in Statistics at the University of Michigan and I am originally from Montreal, Canada. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 
+
+My current research projects:
+
+- Latent variable models using variational inference for node attribute imputation in network data (with [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+- Bayesian functional factor models for EEG-based brain-computer interfaces (with [Prof. Jian Kang](http://www-personal.umich.edu/~jiankang/) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+- Microbiome data analysis (with [Prof. Gen Li](https://sites.google.com/view/ligen) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+- Esophageal cancer risk prediction (with [Prof. Joel H. Rubenstein](https://www.uofmhealth.org/profile/649/joel-howard-rubenstein-md), [Prof. Akbar Waljee](https://michamp.med.umich.edu/akbar-waljee/), [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/) and others)

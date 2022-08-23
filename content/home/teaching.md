@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Incoming Graduate Students Preparation Workshop Instructor
+  - title: 2022 Incoming PhD Students Preparation Workshop Instructor
+    company: Department of Statistics, University of Michigan
+    company_url: 'https://umich.edu'
+    company_logo: um
+    location: Ann Arbor, MI, USA
+    date_start: '2022-08-10'
+    date_end: '2022-08-15'
+    description: 
+  - title: 2021 Incoming Graduate Students Preparation Workshop Instructor
     company: Department of Statistics, University of Michigan
     company_url: 'https://umich.edu'
     company_logo: um

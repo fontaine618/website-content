@@ -25,6 +25,15 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-05-01"
+  description: ""
+  organization: Department of Statistics, University of Michigan
+  organization_logo: um
+  organization_url: https://lsa.umich.edu/stats
+  title: Ph.D. Student Service Award
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2021-05-01"
   description: ""
   organization: Rackham Graduate School, University of Michigan
