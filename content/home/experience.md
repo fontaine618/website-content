@@ -27,8 +27,8 @@ experience:
     company_url: 'https://sites.lsa.umich.edu/mssiss/'
     company_logo: um
     location: Ann Arbor, MI, USA
-    date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2022-03-01'
+    date_start: '2021-10-08'
     description: 
   - title: Research Staff
     company: University of Michigan Medical School

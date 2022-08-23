@@ -42,7 +42,7 @@ experience:
   date_start: "2019-09-01"
   description: |2-
     * Recruitment and Admissons Committee
-      * Visit Day [2020](https://umichstatistics.github.io/VisitDay2020/) and [2021](https://umichstatistics.github.io/VisitDay2021/) organization
+      * Visit Day [2020](https://umichstatistics.github.io/VisitDay2020/), [2021](https://umichstatistics.github.io/VisitDay2021/) and [2022](https://sites.google.com/umich.edu/stats-visit-day-2022/home) organization
     * Computing Committee
 
 
