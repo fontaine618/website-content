@@ -19,7 +19,6 @@ author_notes:
   - "Presenting"
   - "Presenting"
 tags: []
-categories: ["Applied"]
 featured: false
 image:
   caption: ""
@@ -30,7 +29,7 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: [applied]
 ---
 
 

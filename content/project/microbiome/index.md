@@ -1,42 +1,64 @@
 ---
-title: MICROBIOME DATA ANALYSIS
-summary: 
+title: Microbiome Data Analysis
+summary: Does this work?
 date: 2023-03-10
 type: landing
 
 sections: 
   - block: hero
     content:
-      title: MICROBIOME DATA ANALYSIS
+      title: Microbiome Data Analysis
       text: 
     design:
-      columns: 2
       background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
-        gradient_angle: 180
-        text_color_light: true
+        # gradient_end: '#000000'
+        # gradient_start: '#004ba0'
+        # text_color_light: true
+        image: 
+          filename: "IMG_6896.jpg"
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
   - block: collection
     id: methodology
     content:
-      title: METHODOLOGY
+      title: Methodology
       filters:
         folders: 
           - publication
-        category: "Microbiome"
+        exclude_featured: false
+        tags: 
+           - microbiome_methodology
     design:
       columns: '2'
-      view: compact
+      view: card
+  - block: collection
+    id: application
+    content:
+      title: Application
+      filters:
+        folders: 
+          - publication
+        exclude_featured: false
+        tags: 
+           - microbiome_application
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: talks
     content:
-      title: TALKS
+      title: Talks
       filters:
         folders: 
-          - event
-        category: "Microbiome"
+          - talks
+        exclude_featured: false
+        tags: 
+           - microbiome
     design:
       columns: '2'
-      view: compact
+      view: card
 ---
 

@@ -7,20 +7,25 @@ type: landing
 sections: 
   - block: hero
     content:
-      title: TEACHING
+      title: Teaching
       text: 
     design:
-      columns: 2
       background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
-        gradient_angle: 180
-        text_color_light: true
+        # gradient_end: '#000000'
+        # gradient_start: '#004ba0'
+        # text_color_light: true
+        image: 
+          filename: "IMG_6896.jpg"
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
   - block: experience
     design:
       columns: '2'
     content:
-      title: PAST COURSES
+      title: Past courses
       date_format: Jan 2006
       items:
         - title: 2021 & 2022 Incoming PhD Students Preparation Workshop Instructor

@@ -13,7 +13,7 @@ tags:
 - 'MCMC'
 - 'Metropolis'
 - 'Multiple-try Metropolis'
-categories: [Misc]
+categories: []
 date: '2022-08-01'
 featured: false
 draft: false

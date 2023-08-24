@@ -36,7 +36,6 @@ author_notes:
   - ""
   - ""
 tags: []
-categories: ["Misc"]
 
 # Is this a featured event? (true/false)
 featured: false

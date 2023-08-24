@@ -12,14 +12,17 @@ sections:
     design:
       theme: light
       background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
-        gradient_angle: 180
-        text_color_light: true
+        image: 
+          filename: "IMG_6896.jpg"
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: true
   - block: portfolio
     id: projects
     content:
-      title: RESEARCH
+      title: Research
       subtitle: 
       text: 
       filters:
@@ -35,7 +38,7 @@ sections:
       flip_alt_rows: false
   - block: collection
     content:
-      title: RECENT PUBLICATIONS
+      title: Recent Publications
       subtitle: |-
         {{< cta cta_text="SEE ALL" cta_link="/publications/" cta_new_tab="false" >}}
       filters:
@@ -49,12 +52,12 @@ sections:
   - block: collection
     id: talks
     content:
-      title: RECENT & UPCOMING TALKS
+      title: Recent & Upcoming Talks
       subtitle: |-
         {{< cta cta_text="SEE ALL" cta_link="/talks/" cta_new_tab="false" >}}
       filters:
         folders:
-          - event
+          - talks
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'

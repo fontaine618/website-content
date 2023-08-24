@@ -24,7 +24,6 @@ author_notes:
   - ""
   - ""
 tags: []
-categories: ["Microbiome"]
 featured: false
 image:
   caption: ""
@@ -35,7 +34,7 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: [microbiome]
 ---
 
 

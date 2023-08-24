@@ -4,20 +4,20 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: <i class="fa-solid fa-house"></i> HOME
+  - name: Home
     url: /
     weight: 10
-  - name: <i class="fa-solid fa-user"></i> ABOUT
+  - name: About me
     url: 'about'
     weight: 20
-  - name: <i class="fa-solid fa-flask"></i> RESEARCH
+  - name: Research
     identifier: research
     weight: 30
-  - name: <i class="fa-solid fa-virus"></i> Microbiome Data Analysis
+  - name: Microbiome Data Analysis
     parent: research
     url: 'project/microbiome'
     weight: 10
-  - name: <i class="fa-solid fa-brain"></i> Brain-Computer Interfaces
+  - name: Brain-Computer Interfaces
     parent: research
     url: 'project/bci'
     weight: 11
@@ -35,13 +35,13 @@ main:
     weight: 20
   - name: Talks
     parent: research
-    url: 'event'
+    url: 'talks'
     weight: 30
   - name: Software
     parent: research
     url: 'software'
     weight: 40
-  - name: <i class="fa-solid fa-chalkboard-user"></i> TEACHING
+  - name: Teaching
     url: 'teaching'
     weight: 40
 
