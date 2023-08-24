@@ -1,0 +1,11 @@
+# Font style metadata
+name = "fonts2"
+
+# Optional Google font URL
+google_fonts = "family=Alegreya:wght@400;700&family=Roboto+Mono&family=Alegreya+Sans"
+
+# Font families
+heading_font = "Alegreya+Sans"
+body_font = "Alegreya"
+nav_font = "Alegreya+Sans"
+mono_font = "Roboto Mono"
