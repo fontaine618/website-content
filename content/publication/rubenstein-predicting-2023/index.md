@@ -19,7 +19,7 @@ authors:
 - Ji Zhu
 - Akbar K. Waljee
 tags:
-categories: []
+categories: ["Applied"]
 date: '2023-08-10'
 featured: false
 draft: false
@@ -29,13 +29,13 @@ image:
   focal_point: ''
   preview_only: false
 
-projects: [applied]
+projects: ["Applied"]
 publishDate: '2021-10-21T16:48:04.768455Z'
 publication_types:
 - '2'
 abstract: The Kettles Esophageal and Cardia Adenocarcinoma predictioN (K-ECAN) Tool was developed and validated using a form of artificial intelligence of routine electronic medical records to predict which patients would develop particular types of cancer of the esophagus or stomach years in advance.
 publication: '*Gastroenterology*'
-doi: 
+doi: "https://doi.org/10.1053/j.gastro.2023.08.011"
 
 url_code: "https://osf.io/tvu8z/"
 links: 

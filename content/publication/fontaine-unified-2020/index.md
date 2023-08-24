@@ -17,7 +17,7 @@ tags:
 - 'Regularization'
 - 'Tweedie model'
 - 'Variable selection'
-categories: []
+categories: ["Misc"]
 date: '2020-01-01'
 lastmod: 2021-10-21T12:48:04-04:00
 featured: false

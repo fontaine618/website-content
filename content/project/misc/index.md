@@ -1,64 +1,65 @@
 ---
-title: Miscellaneous
-summary: Does this work?
+title: MISCELLANEOUS
+summary: 
 date: 2023-03-10
 type: landing
 
 sections: 
   - block: hero
     content:
-      title: Brain-Computer Interfaces
+      title: MISCELLANEOUS
       text: 
     design:
+      columns: 2
       background:
-        # gradient_end: '#000000'
-        # gradient_start: '#004ba0'
-        # text_color_light: true
-        image: 
-          filename: "IMG_6896.jpg"
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: true
+        gradient_start: '#c31432'
+        gradient_end: '#240b36'
+        gradient_angle: 180
+        text_color_light: true
   - block: collection
-    id: methodology
+    id: publications
     content:
-      title: Methodology
+      title: PUBLICATIONS
       filters:
         folders: 
           - publication
-        exclude_featured: false
-        tags: 
-           - microbiome_methodology
+        category: "Misc"
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: collection
-    id: application
+    id: theses
     content:
-      title: Application
+      title: THESES
       filters:
         folders: 
           - publication
-        exclude_featured: false
-        tags: 
-           - microbiome_application
+        publication_type: '7'
     design:
       columns: '2'
-      view: card
+      view: compact
+  - block: collection
+    id: reports
+    content:
+      title: COURSE WORK
+      filters:
+        folders: 
+          - publication
+        publication_type: '4'
+        category: "Course work"
+    design:
+      columns: '2'
+      view: compact
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: TALKS
       filters:
         folders: 
-          - talks
-        exclude_featured: false
-        tags: 
-           - microbiome
+          - event
+        category: "Misc"
     design:
       columns: '2'
-      view: card
+      view: compact
 ---
 

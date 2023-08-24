@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Simon Fontaine
 tags: []
-categories: []
+categories: ["Course work"]
 date: '2020-05-01'
 featured: false
 draft: false
