@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Simon Fontaine
 tags: []
-categories: []
+categories: ["Misc"]
 date: '2019-01-01'
 lastmod: 2021-10-21T14:01:46-04:00
 featured: false
