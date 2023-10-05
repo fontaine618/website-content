@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: ABOUT ME
-      text: |2-
-        I'm a fifth year Ph.D. student in Statistics at the University of Michigan and I am originally from Montreal, Canada. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 
+      # text: |2-
+      #   I'm a fifth year Ph.D. student in Statistics at the University of Michigan and I am originally from Montreal, Canada. I previously worked as a Data Science intern at the Ubisoft Montreal User Research Lab on online skill rating algorithms using approximate Bayesian inference. I did a master’s thesis at the University of Montreal on an adaptive Multiple-Try Metropolis algorithm aimed at sampling from complex distributions. 
 
-        My current research projects
+      #   My current research projects
 
-        * Latent variable models using variational inference for node attribute imputation in network data (with [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
-        * Bayesian functional factor models for EEG-based brain-computer interfaces (with [Prof. Jian Kang](http://www-personal.umich.edu/~jiankang/) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
-        * Microbiome data analysis (with [Prof. Gen Li](https://sites.google.com/view/ligen) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+      #   * Latent variable models using variational inference for node attribute imputation in network data (with [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+      #   * Bayesian functional factor models for EEG-based brain-computer interfaces (with [Prof. Jian Kang](http://www-personal.umich.edu/~jiankang/) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
+      #   * Microbiome data analysis (with [Prof. Gen Li](https://sites.google.com/view/ligen) and [Prof. Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/))
     design:
       columns: 2
       background:
@@ -23,6 +23,12 @@ sections:
         gradient_end: '#240b36'
         gradient_angle: 180
         text_color_light: true
+        # image:
+        #   filename: "stella_ai2.png"
+        #   size: cover
+        #   filters:
+        #     brightness: 0.4
+        #   parallax: false
   - block: experience
     content:
       title: EDUCATION
