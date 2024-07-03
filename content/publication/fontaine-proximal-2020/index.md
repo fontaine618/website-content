@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:06:35.626121Z'
 publication_types:
-- '4'
+- 'report'
 abstract: We propose an alternating direction of multipliers method (ADMM) based on
   the consensus scheme for solving regularized multi-task problems where the loss
   function is separable across tasks. We discuss the convergence of the algorithm

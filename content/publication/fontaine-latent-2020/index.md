@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:06:35.716646Z'
 publication_types:
-- '4'
+- 'report'
 abstract: 'We propose a latent variable model for paired comparisons in the context
   of Basketball scores. Based on the model proposed by [1], our model assumes multi-dimensional
   latent skills decomposed into offensive and defensive components as well as team-

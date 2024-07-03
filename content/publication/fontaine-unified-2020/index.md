@@ -39,7 +39,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:48:04.768455Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: 'Actuarial practitioners now have access to multiple sources of insurance
   data corresponding to various situations: multiple business lines, umbrella coverage,
   multiple hazards, and so on. Despite the wide use and simple nature of single-target

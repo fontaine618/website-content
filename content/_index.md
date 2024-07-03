@@ -41,7 +41,20 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: '2'
+        publication_type: 'article-journal'
+        
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    content:
+      title: WORKING PAPERS
+      subtitle: |-
+        {{< cta cta_text="SEE ALL" cta_link="/publications/" cta_new_tab="false" >}}
+      filters:
+        folders:
+          - publication
+        publication_type: 'paper'
         
     design:
       columns: '2'

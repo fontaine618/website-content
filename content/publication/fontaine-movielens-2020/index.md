@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:06:35.531219Z'
 publication_types:
-- '4'
+- 'report'
 abstract: 'The MovieLens datasets contain user ratings of movies as well as movie
   and user information. In this report, we consider four predictive models of the
   ratings based on the available information: K-nearest-neighbors, neural networks,

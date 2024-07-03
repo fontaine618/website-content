@@ -32,7 +32,7 @@ image:
 projects: ["Applied"]
 publishDate: '2021-10-21T16:48:04.768455Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: The Kettles Esophageal and Cardia Adenocarcinoma predictioN (K-ECAN) Tool was developed and validated using a form of artificial intelligence of routine electronic medical records to predict which patients would develop particular types of cancer of the esophagus or stomach years in advance.
 publication: '*Gastroenterology*'
 doi: "10.1053/j.gastro.2023.08.011"

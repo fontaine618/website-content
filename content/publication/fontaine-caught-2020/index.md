@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:06:35.802995Z'
 publication_types:
-- '4'
+- 'report'
 abstract: As technology advances, Major League Baseball (MLB) has faced increased
   pressure from fans, coaches, and players to use video technologies to aid umpires
   in making calls on the field, especially for the notoriously subjective ball and

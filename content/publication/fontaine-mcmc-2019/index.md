@@ -29,7 +29,7 @@ image:
 projects: []
 publishDate: '2021-10-21T18:01:46.913232Z'
 publication_types:
-- '7'
+- 'thesis'
 abstract: This memoir aims at introducing adaptation within the Multiple-Try Metropolis
   (MTM) algorithms which are a special case of the Markov chain Monte Carlo (MCMC)
   methods. The MCMC methods, along with their adaptive and multiple-try extensions,

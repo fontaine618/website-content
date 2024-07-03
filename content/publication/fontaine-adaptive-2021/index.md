@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2021-10-21T16:48:37.632309Z'
 publication_types:
-- '2'
+- 'article-journal'
 abstract: Markov  chain  Monte  Carlo  (MCMC)  methods,  specifically  samplers  based  on  random  walks,often
   have difficulty handling target distributions with complex geometry such as multi-modality.We
   propose an adaptive multiple-try Metropolis algorithm designed to tackle such problems
@@ -48,7 +48,7 @@ abstract: Markov  chain  Monte  Carlo  (MCMC)  methods,  specifically  samplers 
 publication: '*Bernoulli*'
 url_code: "https://github.com/fontaine618/aMTM"
 links:
-- name: "Simulation code"
+- name: "Paper code"
   url: "https://github.com/fontaine618/aMTM-simulations"
 - name: "Supplementary material"
   url: "bej1408suppa.pdf"
