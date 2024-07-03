@@ -13,7 +13,7 @@ sections:
 
         Microbiome data features many important features that need to be accounted for:
         * **High dimensionality**: the number of features (taxa) is generally much larger than the number of samples.
-        * **Sparsity**: most microbial species are not present in most individuals (zero-inflation).
+        * **Sparsity**: in a given study, many microbial species are not present in many individuals (true zeros) and the sequencing procedure can produce null counts even if a specie is present (sampling zeros).
         * **Compositionality**: due to the sequencing process, read count varies between samples and is not directly comparable between taxa. 
         For this reason, only relative comparisons are generally feasible, though some methods have been proposed to overcome this issue.
         * **Heterogeneity**: the microbial compositions can differ widely between individuals or body sites, making direct comparison often difficult.

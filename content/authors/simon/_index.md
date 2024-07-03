@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Statistics
+role: Postdoctoral Reasearcher in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Michigan
-    url: https://umich.edu/
+  - name: Pennsylvania State University
+    url: https://psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

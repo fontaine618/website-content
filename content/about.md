@@ -41,7 +41,8 @@ sections:
           location: Ann Arbor, MI, USA
           date_end: 
           date_start: '2019-09-01'
-          description: Supervised by [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/)
+          description: |2-
+              Thesis: *Statistical models for dependent data*, supervised by [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and [Prof. Jian Kang](https://public.websites.umich.edu/~jiankang/)
         - title: MSc in Statistics
           company: University of Montreal
           company_url: 'https://medicine.umich.edu/medschool/home'
@@ -66,6 +67,15 @@ sections:
       title: EXPERIENCE
       date_format: Jan 2006
       items:
+        - title: Postdoctoral Scholar
+          company: Pennsylvania State University
+          company_url: 'https://www.psu.edu/'
+          company_logo: psu
+          location: University Park, PA, USA
+          date_start: '2024-08-01'
+          date_end: 
+          description: |2-
+              * Supervised by [Prof. Lingzhou Xue](https://sites.psu.edu/lingzhouxue/)
         - title: Graduate Student Research Assistant
           company: University of Michigan Medical School
           company_url: 'https://medicine.umich.edu/medschool/home'
@@ -136,7 +146,8 @@ sections:
           date_end: 
           date_start: '2022-03-10'
           description: |2-
-            * [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20)
+            * [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (4x)
+            * [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20) (1x)
             * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) (2x)
             * [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) (2x)
     design:
