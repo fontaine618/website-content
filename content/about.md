@@ -54,7 +54,7 @@ sections:
               Thesis: *MCMC adaptatifs à essais multiples*, supervised by [Prof. Mylène Bédard](https://dms.umontreal.ca/~bedard/)
         - title: BSc in Probability & Statistics
           company: McGill University
-          company_url: 'https://montreal.ubisoft.com/en/'
+          company_url: 'https://www.mcgill.ca/mathstat/'
           company_logo: mcgill
           location: Montreal, Quebec, Canada
           date_start: '2013-01-01'
