@@ -39,7 +39,7 @@ sections:
           company_url: 'https://sites.lsa.umich.edu/'
           company_logo: um
           location: Ann Arbor, MI, USA
-          date_end: 
+          date_end: '2024-05-01'
           date_start: '2019-09-01'
           description: |2-
               Thesis: *Statistical models for dependent data*, supervised by [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and [Prof. Jian Kang](https://public.websites.umich.edu/~jiankang/)
@@ -75,7 +75,7 @@ sections:
           date_start: '2024-08-01'
           date_end: 
           description: |2-
-              * Supervised by [Prof. Lingzhou Xue](https://sites.psu.edu/lingzhouxue/)
+              * Supervised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) and []Prof. Bing Li](https://science.psu.edu/stat/people/bxl9)
         - title: Graduate Student Research Assistant
           company: University of Michigan Medical School
           company_url: 'https://medicine.umich.edu/medschool/home'
