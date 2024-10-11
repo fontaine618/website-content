@@ -36,7 +36,7 @@ sections:
       items:
         - title: PhD in Statistics
           company: University of Michigan
-          company_url: 'https://sites.lsa.umich.edu/mssiss/'
+          company_url: 'https://sites.lsa.umich.edu/'
           company_logo: um
           location: Ann Arbor, MI, USA
           date_end: 
@@ -45,7 +45,7 @@ sections:
               Thesis: *Statistical models for dependent data*, supervised by [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/) and [Prof. Jian Kang](https://public.websites.umich.edu/~jiankang/)
         - title: MSc in Statistics
           company: University of Montreal
-          company_url: 'https://medicine.umich.edu/medschool/home'
+          company_url: 'https://dms.umontreal.ca/en/'
           company_logo: udem
           location: Montreal, Quebec, Canada
           date_start: '2016-09-01'
@@ -140,7 +140,7 @@ sections:
           description: 
         - title: Reviewer
           company: Various journals
-          company_url: 'https://sites.lsa.umich.edu/mssiss/'
+          company_url: 
           company_logo: 
           location: 
           date_end: 

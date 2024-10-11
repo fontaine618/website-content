@@ -13,6 +13,10 @@ appearance:
 
 # SEO
 
+services:
+ googleAnalytics: 
+    id: ""
+
 marketing:
   seo:
     site_type: Person
@@ -21,8 +25,10 @@ marketing:
     description: 'Simon Fontaine, PhD Student in Statistics, University of Michigan.'
     twitter: ''
   analytics:
-    google_analytics: ''
     baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
