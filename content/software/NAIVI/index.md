@@ -4,7 +4,7 @@ summary: Node attribute imputation using variational inference
 featured: true
 
 authors: 
-  - simfont
+  - simon
 
 tags:
   - Python
@@ -17,10 +17,3 @@ links:
 
 type: page
 ---
-
-Implementation of [Fontaine and Zhu, 2021+](). Automatic differentiation using `pyTorch`.
-
-
-```R
-set.seed(1)
-```

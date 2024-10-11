@@ -24,6 +24,19 @@ sections:
         folders: 
           - publication
         category: "Misc"
+        publication_type: 'article-journal'
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: publications
+    content:
+      title: WORKING PAPERS
+      filters:
+        folders: 
+          - publication
+        category: "Misc"
+        publication_type: 'paper'
     design:
       columns: '2'
       view: compact
@@ -34,7 +47,7 @@ sections:
       filters:
         folders: 
           - publication
-        publication_type: '7'
+        publication_type: 'thesis'
     design:
       columns: '2'
       view: compact
@@ -45,7 +58,7 @@ sections:
       filters:
         folders: 
           - publication
-        publication_type: '4'
+        publication_type: 'report'
         category: "Course work"
     design:
       columns: '2'

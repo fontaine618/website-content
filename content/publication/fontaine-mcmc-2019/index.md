@@ -45,6 +45,6 @@ abstract: This memoir aims at introducing adaptation within the Multiple-Try Met
   complex geometry. Finally, many variations of the algorithm are proposed and compared
   to identify settings that are particularly more efficient. An implementation of
   the algorithm is provided in a R package called aMTM available at https://github.com/fontaine618/aMTM.
-publication: ''
+publication: "Master's thesis, *University of Montreal*"
 url_pdf: https://umontreal.on.worldcat.org/oclc/1147919072
 ---

@@ -4,7 +4,7 @@ summary: Multi-task sparse Tweedie modeling
 featured: true
 
 authors: 
-  - simfont
+  - simon
 
 tags:
   - R
@@ -19,9 +19,3 @@ links:
 type: page
 ---
 
-Implementation of [Fontaine et al., 2020]({{< relref "/publication/fontaine-unified-2020">}}). Wrapper for the main routine written in `Fortran`
-
-
-```R
-set.seed(1)
-```
