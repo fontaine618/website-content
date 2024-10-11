@@ -75,7 +75,7 @@ sections:
           date_start: '2024-08-01'
           date_end: 
           description: |2-
-              * Supervised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) and []Prof. Bing Li](https://science.psu.edu/stat/people/bxl9)
+              * Supervised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) and [Prof. Bing Li](https://science.psu.edu/stat/people/bxl9)
         - title: Graduate Student Research Assistant
           company: University of Michigan Medical School
           company_url: 'https://medicine.umich.edu/medschool/home'
