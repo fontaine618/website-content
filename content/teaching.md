@@ -12,8 +12,8 @@ sections:
     design:
       columns: 2
       background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
+        gradient_start: '#96BEE6'
+        gradient_end: '#001E44'
         gradient_angle: 180
         text_color_light: true
   - block: experience

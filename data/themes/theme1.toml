@@ -4,15 +4,15 @@ name = "theme1"
 
 [dark]
   # Primary
-  primary = "#c31432"
+  primary = "#96BEE6"
 
   # Menu
-  menu_primary = "#c31432"
+  menu_primary = "#96BEE6"
   menu_text = "#fefae0"
   menu_text_active = "#ffffff"
   menu_title = "#fefae0"
 
   # Backgrounds
-  background = "#240b36"
-  home_section_odd = "#220530"
-  home_section_even = "#240b36"
+  background = "#001E44"
+  home_section_odd = "#1e407c"
+  home_section_even = "#001E44"

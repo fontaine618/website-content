@@ -19,8 +19,8 @@ sections:
     design:
       columns: 2
       background:
-        gradient_start: '#c31432'
-        gradient_end: '#240b36'
+        gradient_start: '#96BEE6'
+        gradient_end: '#001E44'
         gradient_angle: 180
         text_color_light: true
         # image:
@@ -130,14 +130,6 @@ sections:
       title: SERVICE
       date_format: Jan 2006
       items:
-        - title: 2022 Organizer & 2023 Mentor
-          company: Michigan Student Symposium for Interdisciplinary Statistical Sciences
-          company_url: 'https://sites.lsa.umich.edu/mssiss/'
-          company_logo: um
-          location: Ann Arbor, MI, USA
-          date_end: '2023-03-10'
-          date_start: '2021-10-08'
-          description: 
         - title: Reviewer
           company: Various journals
           company_url: 
@@ -146,10 +138,18 @@ sections:
           date_end: 
           date_start: '2022-03-10'
           description: |2-
-            * [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (4x)
+            * [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (5x)
             * [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20) (1x)
             * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) (2x)
             * [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) (2x)
+        - title: 2022 Organizer & 2023 Mentor
+          company: Michigan Student Symposium for Interdisciplinary Statistical Sciences
+          company_url: 'https://sites.lsa.umich.edu/mssiss/'
+          company_logo: um
+          location: Ann Arbor, MI, USA
+          date_end: '2023-03-10'
+          date_start: '2021-10-08'
+          description: 
     design:
       columns: '2'
   - block: accomplishments

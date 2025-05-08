@@ -1,0 +1,18 @@
+# Theme metadata
+name = "theme2"
+
+
+[dark]
+  # Primary
+  primary = "#c31432"
+
+  # Menu
+  menu_primary = "#c31432"
+  menu_text = "#fefae0"
+  menu_text_active = "#ffffff"
+  menu_title = "#fefae0"
+
+  # Backgrounds
+  background = "#240b36"
+  home_section_odd = "#220530"
+  home_section_even = "#240b36"
