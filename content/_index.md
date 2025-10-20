@@ -28,11 +28,8 @@ sections:
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: masonry
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
   - block: collection
     content:
       title: RECENT PUBLICATIONS
@@ -42,7 +39,6 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
-        
     design:
       columns: '2'
       view: compact

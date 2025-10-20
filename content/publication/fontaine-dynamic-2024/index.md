@@ -11,7 +11,7 @@ authors:
 - Jian Kang
 tags:
 categories: ["BCI"]
-date: '2024-07-01'
+date: '2025-10-01'
 featured: false
 draft: false
 

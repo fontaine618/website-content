@@ -40,7 +40,7 @@ sections:
   - block: collection
     id: methodology
     content:
-      title: METHODOLOGY
+      title: PUBLICATIONS
       filters:
         folders: 
           - publication

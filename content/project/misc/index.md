@@ -1,5 +1,5 @@
 ---
-title: MISCELLANEOUS
+title: STATISTICAL METHODOLOGY
 summary: 
 date: 2023-03-10
 type: landing
@@ -7,7 +7,7 @@ type: landing
 sections: 
   - block: hero
     content:
-      title: MISCELLANEOUS
+      title: STATISTICAL METHODOLOGY
       text: 
     design:
       columns: 2
@@ -52,18 +52,6 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: reports
-    content:
-      title: COURSE WORK
-      filters:
-        folders: 
-          - publication
-        publication_type: 'report'
-        category: "Course work"
-    design:
-      columns: '2'
-      view: compact
-  - block: collection
     id: talks
     content:
       title: TALKS
@@ -74,5 +62,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: reports
+    content:
+      title: COURSE WORK & REPORTS
+      filters:
+        folders: 
+          - publication
+        publication_type: 'report'
+        category: "Course work"
+    design:
+      columns: '2'
+      view: compact
 ---
-

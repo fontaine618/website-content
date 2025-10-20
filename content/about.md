@@ -76,6 +76,7 @@ sections:
           date_end: 
           description: |2-
               * Supervised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) and [Prof. Bing Li](https://science.psu.edu/stat/people/bxl9)
+              * Instructor for **STAT 440 Computational Statistics** (Fall 2025)
         - title: Graduate Student Research Assistant
           company: University of Michigan Medical School
           company_url: 'https://medicine.umich.edu/medschool/home'
@@ -122,33 +123,6 @@ sections:
           location: Montreal, Quebec, Canada
           date_start: '2014-01-01'
           date_end: '2016-05-01'
-          description: 
-    design:
-      columns: '2'
-  - block: experience
-    content:
-      title: SERVICE
-      date_format: Jan 2006
-      items:
-        - title: Reviewer
-          company: Various journals
-          company_url: 
-          company_logo: 
-          location: 
-          date_end: 
-          date_start: '2022-03-10'
-          description: |2-
-            * [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (5x)
-            * [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20) (1x)
-            * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) (2x)
-            * [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) (2x)
-        - title: 2022 Organizer & 2023 Mentor
-          company: Michigan Student Symposium for Interdisciplinary Statistical Sciences
-          company_url: 'https://sites.lsa.umich.edu/mssiss/'
-          company_logo: um
-          location: Ann Arbor, MI, USA
-          date_end: '2023-03-10'
-          date_start: '2021-10-08'
           description: 
     design:
       columns: '2'
@@ -222,6 +196,45 @@ sections:
           organization_url: https://dms.umontreal.ca/en/
           title: Serge-Tardif Fellowship
           url: "https://dms.umontreal.ca/en/resources/financial-support"
+    design:
+      columns: '2'
+  - block: experience
+    content:
+      title: SERVICE
+      date_format: Jan 2006
+      items:
+        - title: Reviewer
+          company: Various journals
+          company_url: 
+          company_logo: 
+          location: 
+          date_end: 
+          date_start: '2022-03-10'
+          description: |2-
+            * [Annals of Applied Statistics](https://imstat.org/journals-and-publications/annals-of-applied-statistics/) (5x)
+            * [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20) (1x)
+            * [Biometrics](https://onlinelibrary.wiley.com/journal/15410420) (2x)
+            * [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258) (2x)
+        - title: 2022 Organizer & 2023 Mentor
+          company: Michigan Student Symposium for Interdisciplinary Statistical Sciences
+          company_url: 'https://sites.lsa.umich.edu/mssiss/'
+          company_logo: um
+          location: Ann Arbor, MI, USA
+          date_end: '2023-03-10'
+          date_start: '2021-10-08'
+          description: 
+        - title: Member 
+          company: PhD Student Council
+          company_url: 'https://sites.lsa.umich.edu/mssiss/'
+          company_logo: um
+          location: Ann Arbor, MI, USA
+          date_end: '2024-05-10'
+          date_start: '2019-09-08'
+          description: |2-
+            * Organized the PhD Visit Day for prospective PhD students (2020-2022)
+            * PhD Student Mentor for incoming PhD students (2021, 2022)
+            * Organized the Computing Club (2020-2022)
+            * Computing Committee (HPC, Wiki, Slack)
     design:
       columns: '2'
 ---
