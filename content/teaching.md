@@ -16,11 +16,27 @@ sections:
         gradient_end: '#001E44'
         gradient_angle: 180
         text_color_light: true
+  # - block: experience
+  #   design:
+  #     columns: '2'
+  #   content:
+  #     title: CURRENT COURSES
+  #     date_format: Jan 2006
+  #     items:
+  #       - title: Instructor
+  #         company: Department of Statistics, Pennsylvania State University
+  #         company_url: 'https://psu.edu'
+  #         company_logo: psu
+  #         location: University Park, PA, USA
+  #         date_start: '2025-09-01'
+  #         date_end: '2025-12-15'
+  #         description: |2-
+  #             * STAT 440 Computational Statistics
   - block: experience
     design:
       columns: '2'
     content:
-      title: CURRENT COURSES
+      title: PAST COURSES
       date_format: Jan 2006
       items:
         - title: Instructor
@@ -32,22 +48,6 @@ sections:
           date_end: '2025-12-15'
           description: |2-
               * STAT 440 Computational Statistics
-  - block: experience
-    design:
-      columns: '2'
-    content:
-      title: PAST COURSES
-      date_format: Jan 2006
-      items:
-        # - title: Instructor
-        #   company: Department of Statistics, Pennsylvania State University
-        #   company_url: 'https://psu.edu'
-        #   company_logo: psu
-        #   location: University Park, PA, USA
-        #   date_start: '2025-09-01'
-        #   date_end: '2025-12-15'
-        #   description: |2-
-        #       * STAT 440 Computational Statistics
         - title: 2021 & 2022 Incoming PhD Students Preparation Workshop Instructor
           company: Department of Statistics, University of Michigan
           company_url: 'https://umich.edu'
