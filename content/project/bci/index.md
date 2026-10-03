@@ -2,6 +2,7 @@
 title: BRAIN-COMPUTER INTERFACES
 summary: 
 date: 2023-03-10
+weight: 3
 type: landing
 
 sections: 
@@ -50,4 +51,3 @@ sections:
       columns: '2'
       view: compact
 ---
-

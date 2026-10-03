@@ -24,7 +24,7 @@ author_notes:
   - "Presenting"
   - ""
 tags: []
-categories: ["Misc"]
+categories: ["Network"]
 
 featured: false
 image:
@@ -38,6 +38,5 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: ["Network"]
 ---
-

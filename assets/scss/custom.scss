@@ -13,3 +13,10 @@
 .navbar-brand {
     font-family: "Bungee Shade", sans-serif;
 }
+
+@media (min-width: 992px) {
+    .research-nav-dropdown:hover > .dropdown-menu,
+    .research-nav-dropdown:focus-within > .dropdown-menu {
+        display: block;
+    }
+}

@@ -2,6 +2,7 @@
 title: MICROBIOME DATA ANALYSIS
 summary: 
 date: 2023-03-10
+weight: 2
 type: landing
 
 sections: 
@@ -60,4 +61,3 @@ sections:
       columns: '2'
       view: compact
 ---
-

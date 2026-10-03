@@ -1,0 +1,27 @@
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const label = document.getElementById('research-menu-label');
+    const link = label && label.closest('a');
+    const dropdown = link && link.closest('.dropdown');
+
+    if (!link || !dropdown) {
+      return;
+    }
+
+    const desktop = window.matchMedia('(min-width: 992px)');
+    link.setAttribute('href', '{{ site.Home.RelPermalink }}#projects');
+    dropdown.classList.add('research-nav-dropdown');
+
+    function updateResearchMenu() {
+      if (desktop.matches) {
+        link.removeAttribute('data-toggle');
+        link.setAttribute('aria-haspopup', 'true');
+      } else {
+        link.setAttribute('data-toggle', 'dropdown');
+      }
+    }
+
+    updateResearchMenu();
+    desktop.addEventListener('change', updateResearchMenu);
+  });
+</script>

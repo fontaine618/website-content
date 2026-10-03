@@ -117,26 +117,30 @@
       "exp-title",
       "experience",
       "fa-angle-right",
+      "fa-bacteria",
       "fa-bars",
       "fa-brain",
       "fa-chalkboard-user",
+      "fa-chart-column",
       "fa-copy",
       "fa-download",
       "fa-envelope",
       "fa-facebook",
       "fa-flask",
       "fa-folder",
+      "fa-gears",
       "fa-github",
       "fa-house",
       "fa-info-circle",
       "fa-linkedin-in",
       "fa-orcid",
       "fa-search",
+      "fa-shapes",
+      "fa-share-nodes",
       "fa-solid",
       "fa-times-circle",
       "fa-twitter",
       "fa-user",
-      "fa-virus",
       "fa-weibo",
       "fa-whatsapp",
       "fab",
@@ -268,7 +272,8 @@
       "year-2022",
       "year-2023",
       "year-2024",
-      "year-2025"
+      "year-2025",
+      "year-2026"
     ],
     "ids": [
       "about",
@@ -284,6 +289,7 @@
       "publication",
       "publications",
       "reports",
+      "research-menu-label",
       "search",
       "search-box",
       "search-hit-fuse-template",
@@ -296,7 +302,8 @@
       "talk_list",
       "talks",
       "theses",
-      "top"
+      "top",
+      "working-papers"
     ]
   }
 }

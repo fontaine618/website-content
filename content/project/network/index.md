@@ -1,15 +1,16 @@
 ---
-title: APPLIED RESEARCH
-summary: 
+title: NETWORK ANALYSIS
+summary:
 date: 2023-03-10
-weight: 6
+weight: 4
 type: landing
 
-sections: 
+sections:
   - block: hero
     content:
-      title: APPLIED RESEARCH
-      text: 
+      title: NETWORK ANALYSIS
+      text: |2-
+        Relational data combine information about individual entities with the connections between them. My research develops statistical methods that use both sources of information, with a current focus on imputing missing node attributes by jointly modeling attributes and network structure.
     design:
       columns: 2
       background:
@@ -18,13 +19,13 @@ sections:
         gradient_angle: 180
         text_color_light: true
   - block: collection
-    id: publication
+    id: publications
     content:
       title: PUBLICATIONS
       filters:
-        folders: 
+        folders:
           - publication
-        category: "Applied"
+        category: "Network"
     design:
       columns: '2'
       view: compact
@@ -33,9 +34,9 @@ sections:
     content:
       title: TALKS
       filters:
-        folders: 
+        folders:
           - event
-        category: "Applied"
+        category: "Network"
     design:
       columns: '2'
       view: compact

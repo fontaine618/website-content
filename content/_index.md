@@ -25,6 +25,8 @@ sections:
       filters:
         folders:
           - project
+      sort_by: weight
+      sort_ascending: true
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
     design:

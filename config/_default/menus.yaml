@@ -10,25 +10,34 @@ main:
   - name: <i class="fa-solid fa-user"></i> ABOUT
     url: 'about'
     weight: 20
-  - name: <i class="fa-solid fa-flask"></i> RESEARCH
+  - name: <span id="research-menu-label"><i class="fa-solid fa-flask"></i> RESEARCH</span>
     identifier: research
+    url: '/#projects'
     weight: 30
-  - name: <i class="fa-solid fa-virus"></i> Microbiome Data Analysis
+  - name: <i class="fa-solid fa-shapes"></i> Statistics in Metric Spaces
+    parent: research
+    url: 'project/metric-spaces'
+    weight: 10
+  - name: <i class="fa-solid fa-bacteria"></i> Microbiome Data Analysis
     parent: research
     url: 'project/microbiome'
-    weight: 10
+    weight: 11
   - name: <i class="fa-solid fa-brain"></i> Brain-Computer Interfaces
     parent: research
     url: 'project/bci'
-    weight: 11
-  - name: Applied Research
-    parent: research
-    url: 'project/applied'
     weight: 12
-  - name: Miscellaneous
+  - name: <i class="fa-solid fa-share-nodes"></i> Network Analysis
+    parent: research
+    url: 'project/network'
+    weight: 13
+  - name: <i class="fa-solid fa-chart-column"></i> Statistical Methodology
     parent: research
     url: 'project/misc'
-    weight: 13
+    weight: 14
+  - name: <i class="fa-solid fa-gears"></i> Applied Research
+    parent: research
+    url: 'project/applied'
+    weight: 15
   - name: Publications
     parent: research
     url: 'publication'

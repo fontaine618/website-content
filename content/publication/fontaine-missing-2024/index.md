@@ -9,7 +9,7 @@ authors:
 - Jian Kang
 - Ji Zhu
 tags:
-categories: ["Misc"]
+categories: ["Network"]
 date: '2025-05-20'
 featured: false
 draft: false
@@ -19,7 +19,7 @@ image:
   focal_point: ''
   preview_only: false
 
-projects: ["Misc"]
+projects: ["Network"]
 publishDate: '2024-03-17T16:06:35.531219Z'
 publication_types:
 - 'article-journal'
@@ -30,4 +30,3 @@ doi: "https://doi.org/10.1080/10618600.2025.2510494"
 url_code: "https://github.com/fontaine618/NAIVI"
 links: 
 ---
-

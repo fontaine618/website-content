@@ -2,6 +2,7 @@
 title: STATISTICAL METHODOLOGY
 summary: 
 date: 2023-03-10
+weight: 5
 type: landing
 
 sections: 

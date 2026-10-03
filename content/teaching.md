@@ -16,22 +16,22 @@ sections:
         gradient_end: '#001E44'
         gradient_angle: 180
         text_color_light: true
-  # - block: experience
-  #   design:
-  #     columns: '2'
-  #   content:
-  #     title: CURRENT COURSES
-  #     date_format: Jan 2006
-  #     items:
-  #       - title: Instructor
-  #         company: Department of Statistics, Pennsylvania State University
-  #         company_url: 'https://psu.edu'
-  #         company_logo: psu
-  #         location: University Park, PA, USA
-  #         date_start: '2025-09-01'
-  #         date_end: '2025-12-15'
-  #         description: |2-
-  #             * STAT 440 Computational Statistics
+  - block: experience
+    design:
+      columns: '2'
+    content:
+      title: CURRENT COURSES
+      date_format: Jan 2006
+      items:
+        - title: Instructor
+          company: Department of Statistics, Pennsylvania State University
+          company_url: 'https://psu.edu'
+          company_logo: psu
+          location: University Park, PA, USA
+          date_start: '2026-09-01'
+          date_end: '2026-12-15'
+          description: |2-
+              * STAT 380 Data Science Through Statistical Reasoning and Computation (Fall 2026)
   - block: experience
     design:
       columns: '2'
@@ -47,7 +47,7 @@ sections:
           date_start: '2025-09-01'
           date_end: '2025-12-15'
           description: |2-
-              * STAT 440 Computational Statistics
+              * STAT 440 Computational Statistics (Fall 2025)
         - title: 2021 & 2022 Incoming PhD Students Preparation Workshop Instructor
           company: Department of Statistics, University of Michigan
           company_url: 'https://umich.edu'
@@ -56,7 +56,7 @@ sections:
           date_start: '2021-08-10'
           date_end: '2022-08-15'
           description: 
-        - title: Graduate Student Instructor
+        - title: Graduate Student Instructor (Teaching Assistant)
           company: University of Michigan
           company_url: 'https://umich.edu'
           company_logo: um

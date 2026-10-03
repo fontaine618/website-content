@@ -19,7 +19,7 @@ authors:
 - Nisha J. D’Silva
 tags:
 categories: ["Applied", "Microbiome"]
-date: '2025-10-10'
+date: '2026-04-10'
 featured: false
 draft: false
 
@@ -31,13 +31,13 @@ image:
 projects: ["Applied"]
 publishDate: '2025-10-10T16:48:04.768455Z'
 publication_types:
-- 'paper'
+- 'article-journal'
 abstract: 
 
 
 
-publication: '*Under review at Microbiome*'
-doi: ""
+publication: '*Microbiome*'
+doi: 10.1186/s40168-026-02337-5
 
 url_code: ""
 links: 

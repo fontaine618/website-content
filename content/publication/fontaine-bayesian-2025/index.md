@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bayesian Fréchet Regression"
+title: "Bayesian Fréchet Regression via Weak Conditional Expectations"
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,7 @@ authors:
 - Lingzhou Xue
 - Bing Li
 tags:
-categories: ["Misc"]
+categories: ["Metric Spaces", "Microbiome"]
 date: '2025-10-20'
 featured: false
 draft: false
@@ -19,7 +19,7 @@ image:
   focal_point: ''
   preview_only: false
 
-projects: ["Misc"]
+projects: ["Metric Spaces"]
 publishDate: '2025-10-01T16:06:35.531219Z'
 publication_types:
 - 'paper'
@@ -30,4 +30,3 @@ doi: ""
 url_code: "https://github.com/fontaine618/BFR"
 links: 
 ---
-

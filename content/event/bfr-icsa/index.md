@@ -26,7 +26,7 @@ author_notes:
   - ""
   - ""
 tags: []
-categories: ["Misc", "Microbiome"]
+categories: ["Metric Spaces", "Microbiome"]
 
 featured: false
 image:
@@ -40,6 +40,5 @@ url_code:
 url_pdf:
 url_video:
 slides: ""
-projects: []
+projects: ["Metric Spaces"]
 ---
-

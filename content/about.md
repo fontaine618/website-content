@@ -76,6 +76,7 @@ sections:
           date_end: 
           description: |2-
               * Supervised by [Prof. Lingzhou Xue](https://lingzhou-xue.github.io/index.html) and [Prof. Bing Li](https://science.psu.edu/stat/people/bxl9)
+              * Instructor for **STAT 380 Data Science Through Statistical Reasoning and Computation** (Fall 2026)
               * Instructor for **STAT 440 Computational Statistics** (Fall 2025)
         - title: Graduate Student Research Assistant
           company: University of Michigan Medical School
